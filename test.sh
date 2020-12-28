@@ -14,5 +14,5 @@
 ml load gcc
 cd /home/kurse/kurs00042/nh51mini/SPP/Uebungsblatt1_Gruppe133/Aufgabe1/
 gcc helloWorld.c
-./helloWorld
+./a.out
 
