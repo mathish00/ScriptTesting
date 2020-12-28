@@ -1,6 +1,0 @@
-Lmod: loading gcc 8.3.0 
-/opt/slurm/current/var/spool/job16632408/slurm_script: line 16: cd: /home/kurse/kurs00042/nh51mini/home/kurse/kurs00042/nh51mini/SPP/Praktikum1_Gruppe133/Hoffmann/: No such file or directory
-gcc: error: dotproduct.c: No such file or directory
-gcc: fatal error: no input files
-compilation terminated.
-/opt/slurm/current/var/spool/job16632408/slurm_script: line 19: ./a.out: No such file or directory
