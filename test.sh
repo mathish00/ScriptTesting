@@ -12,4 +12,4 @@
 #SBATCH -t 00:10:00
 
 cd /home/kurse/kurs00042/nh51mini
-./helloWorld.c
+./helloWorld
