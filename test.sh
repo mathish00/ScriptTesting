@@ -12,5 +12,6 @@
 #SBATCH -t 00:10:00
 
 ml load gcc
-cd /home/kurse/kurs00042/nh51mini
+cd /home/kurse/kurs00042/nh51mini/SPP/Uebungsblatt1_Gruppe133/Aufgabe1/
 ./helloWorld
+
