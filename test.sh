@@ -10,6 +10,3 @@
 #SBATCH -c 1
 #SBATCH --mem-per-cpu=100
 #SBATCH -t 00:10:00
-
-cd /home/kurse/kurs00042/nh51mini/SPP/Uebungsblatt1_Gruppe133/Aufgabe1/
-./helloWorld
