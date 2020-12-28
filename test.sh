@@ -13,4 +13,4 @@
 
 ml load gcc
 cd /home/kurse/kurs00042/nh51mini
-gcc helloWorld.c
+./helloWorld
