@@ -11,7 +11,5 @@
 #SBATCH --mem-per-cpu=100
 #SBATCH -t 00:10:00
 
-module load gcc
-
-cd /home/kurse/kurs00042/nh51mini/SPP/Uebungsblatt1_Gruppe133/Aufgabe1/
-./helloWorld
+cd /home/kurse/kurs00042/nh51mini
+./helloWorld.c
