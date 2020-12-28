@@ -13,7 +13,7 @@
 
 ml load gcc
 
-cd ~/home/kurse/kurs00042/nh51mini/SPP/Praktikum1_Gruppe133/Hoffmann/
+cd /home/kurse/kurs00042/nh51mini/SPP/Praktikum1_Gruppe133/Hoffmann/
 gcc -fopenmp dotproduct.c
 export OMP_NUM_THREADS=1
 ./a.out
