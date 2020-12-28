@@ -11,5 +11,6 @@
 #SBATCH --mem-per-cpu=100
 #SBATCH -t 00:10:00
 
+ml load gcc
 cd /home/kurse/kurs00042/nh51mini
-./helloWorld
+gcc helloWorld.c
