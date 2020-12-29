@@ -1,5 +1,0 @@
-Lmod: loading gcc 8.3.0 
-/tmp/ccihn61N.o: In function `main':
-dotproduct.c:(.text+0x92): undefined reference to `sqrt'
-collect2: error: ld returned 1 exit status
-/opt/slurm/current/var/spool/job16632413/slurm_script: line 19: ./a.out: No such file or directory
