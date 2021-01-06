@@ -12,6 +12,6 @@
 #SBATCH -t 00:10:00
 
 cd /home/kurse/kurs00042/nh51mini/SPP/Praktikum1_Gruppe133/Hoffmann/
-g++ -fopenmp heated-plate-parallel.cpp
+g++ -o cpus_2 -fopenmp heated-plate-parallel.cpp
 export OMP_NUM_THREADS=2
-./a.out
+./cpus_2
