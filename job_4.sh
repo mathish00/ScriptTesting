@@ -13,5 +13,4 @@
 
 cd /home/kurse/kurs00042/nh51mini/SPP/Praktikum1_Gruppe133/Hoffmann/
 g++ -o cpus_4 -fopenmp heated-plate-parallel.cpp
-export OMP_NUM_THREADS=4
 ./cpus_4
