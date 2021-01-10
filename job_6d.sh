@@ -28,10 +28,6 @@ gcc -o cpu_8 -fopenmp matrix-mult.c
 export OMP_NUM_THREADS=8
 ./cpu_8
 
-gcc -o cpu_8 -fopenmp matrix-mult.c
-export OMP_NUM_THREADS=8
-./cpu_8
-
 gcc -o cpu_16 -fopenmp matrix-mult.c
 export OMP_NUM_THREADS=16
 ./cpu_16
