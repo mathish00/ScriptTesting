@@ -1,0 +1,77 @@
+matrix-mult.c: In function 'print_delete_matrix':
+matrix-mult.c:108:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+matrix-mult.c:108:5: note: use option -std=c99 or -std=gnu99 to compile your code
+matrix-mult.c:109:9: error: 'for' loop initial declarations are only allowed in C99 mode
+         for(int j = 0; j < m; j++) {
+         ^
+matrix-mult.c: In function 'delete_matrix':
+matrix-mult.c:121:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+matrix-mult.c: In function 'print_delete_matrix':
+matrix-mult.c:108:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+matrix-mult.c:108:5: note: use option -std=c99 or -std=gnu99 to compile your code
+matrix-mult.c:109:9: error: 'for' loop initial declarations are only allowed in C99 mode
+         for(int j = 0; j < m; j++) {
+         ^
+matrix-mult.c: In function 'delete_matrix':
+matrix-mult.c:121:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+/opt/slurm/current/var/spool/job16707192/slurm_script: line 21: ./cpu_2: No such file or directory
+matrix-mult.c: In function 'print_delete_matrix':
+matrix-mult.c:108:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+matrix-mult.c:108:5: note: use option -std=c99 or -std=gnu99 to compile your code
+matrix-mult.c:109:9: error: 'for' loop initial declarations are only allowed in C99 mode
+         for(int j = 0; j < m; j++) {
+         ^
+matrix-mult.c: In function 'delete_matrix':
+matrix-mult.c:121:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+/opt/slurm/current/var/spool/job16707192/slurm_script: line 25: ./cpu_4: No such file or directory
+matrix-mult.c: In function 'print_delete_matrix':
+matrix-mult.c:108:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+matrix-mult.c:108:5: note: use option -std=c99 or -std=gnu99 to compile your code
+matrix-mult.c:109:9: error: 'for' loop initial declarations are only allowed in C99 mode
+         for(int j = 0; j < m; j++) {
+         ^
+matrix-mult.c: In function 'delete_matrix':
+matrix-mult.c:121:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+/opt/slurm/current/var/spool/job16707192/slurm_script: line 29: ./cpu_8: No such file or directory
+matrix-mult.c: In function 'print_delete_matrix':
+matrix-mult.c:108:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+matrix-mult.c:108:5: note: use option -std=c99 or -std=gnu99 to compile your code
+matrix-mult.c:109:9: error: 'for' loop initial declarations are only allowed in C99 mode
+         for(int j = 0; j < m; j++) {
+         ^
+matrix-mult.c: In function 'delete_matrix':
+matrix-mult.c:121:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+/opt/slurm/current/var/spool/job16707192/slurm_script: line 33: ./cpu_8: No such file or directory
+matrix-mult.c: In function 'print_delete_matrix':
+matrix-mult.c:108:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+matrix-mult.c:108:5: note: use option -std=c99 or -std=gnu99 to compile your code
+matrix-mult.c:109:9: error: 'for' loop initial declarations are only allowed in C99 mode
+         for(int j = 0; j < m; j++) {
+         ^
+matrix-mult.c: In function 'delete_matrix':
+matrix-mult.c:121:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for(int i = 0; i < n; i++) {
+     ^
+/opt/slurm/current/var/spool/job16707192/slurm_script: line 37: ./cpu_16: No such file or directory
